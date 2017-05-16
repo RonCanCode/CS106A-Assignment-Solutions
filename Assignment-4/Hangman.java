@@ -4,8 +4,6 @@
  * 
  * Name:  Ron Guglielmone
  * 
- * Section Leader:  Bruno De Martino
- * 
  * This is the main controller for Hangman.
  * It sends to methods in the HangmanCanvas class
  * and receives words from the HangmanLexicon class.
